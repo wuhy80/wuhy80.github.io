@@ -1,6 +1,7 @@
 ---
 title: 主要功能与配置演示
 index: false
+order: 0
 icon: creative
 category:
   - 使用指南
