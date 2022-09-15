@@ -9,4 +9,13 @@ export default navbar([
     icon: "note",
     link: "https://vuepress-theme-hope.github.io/v2/zh/",
   },
+  {
+    text: "技术文档",
+    icon: "edit",
+    prefix: "/articles/",
+    children: [
+      { text: "Git", prefix: "", icon: "edit", link: "technical/" },
+      { text: "文章 2", icon: "edit", link: "article2" },
+    ],
+  },
 ]);

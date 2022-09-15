@@ -76,6 +76,9 @@ export default hopeTheme({
   plugins: {
     blog: {
       autoExcerpt: true,
+      // only files under posts are articles
+      filter: ({ filePathRelative }) =>
+        filePathRelative ? filePathRelative.startsWith("posts/") : false,
     },
 
     // 如果你不需要评论，可以直接删除 comment 配置，
