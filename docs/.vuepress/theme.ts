@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://wuhy80.github.io/docSite/",
 
   author: {
-    name: "Mr.Hope",
+    name: "吴海燕",
     url: "https://wuhy80.github.io/docSite/",
   },
 
@@ -31,7 +31,7 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "全站开发小思考",
+    description: "个人博客",
     intro: "/intro.html",
     sidebarDisplay: "mobile",
     medias: {
