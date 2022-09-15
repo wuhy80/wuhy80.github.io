@@ -18,5 +18,5 @@ projects:
     desc: 帮助手册
     link: https://vuepress-theme-hope.gitee.io/v2/zh/guide/
 
-footer: Powered By VuePress
+footer: Powered By VuePress with theme-hope
 ---
