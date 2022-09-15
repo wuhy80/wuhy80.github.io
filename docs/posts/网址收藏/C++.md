@@ -63,3 +63,31 @@ https://cplusplus.com/doc/tutorial/introduction/
 https://en.cppreference.com/w/
 
 > CPP 标准查询站点
+
+## 一些C++的资料
+
+1. [[C++网络框架和库](https://blog.csdn.net/u010913001/article/details/52487938)](https://blog.csdn.net/u010913001/article/details/52487938),by 帝王铠.
+2. [[C++ 高性能服务器网络框架设计细节](https://juejin.im/post/59e47ce36fb9a0451f2ffee8)](https://juejin.im/post/59e47ce36fb9a0451f2ffee8),by 范蠡.
+3. [[值得推荐的C/C++框架和库 (真的很强大)](https://www.jianshu.com/p/ee5b34870eba)](https://www.jianshu.com/p/ee5b34870eba),by tibet889.
+4. [[有哪些值得推荐的c/c++开源框架与库](https://zhuanlan.zhihu.com/p/71707672)](https://zhuanlan.zhihu.com/p/71707672),by 零声学院.
+5. [[有什么适合提高 C/C++ 网络编程能力的开源项目推荐？](https://www.zhihu.com/question/20124494)](https://www.zhihu.com/question/20124494),by zhihu.
+6. [[网络库libevent、libev、libuv对比](https://blog.csdn.net/lijinqi1987/article/details/71214974)](https://blog.csdn.net/lijinqi1987/article/details/71214974),by 小麒麟666.
+7. [[libevent、libev、libuv、IOCP、asio、muduo优劣分析、QT下编译libevent静态库](https://blog.csdn.net/tjm1017/article/details/88219576)](https://blog.csdn.net/tjm1017/article/details/88219576),by 雒珣.
+8. [[Reactor 模式简介](https://lotabout.me/2018/reactor-pattern/)](https://lotabout.me/2018/reactor-pattern/),by lotabou.
+9. [[IO设计模式：Reactor和Proactor对比](https://segmentfault.com/a/1190000002715832)](https://segmentfault.com/a/1190000002715832),by 大CC.
+10. [[Proactor和Reactor模型](https://www.jianshu.com/p/96c0b04941e2)](https://www.jianshu.com/p/96c0b04941e2),by wiseAaron.
+11. [[如何深刻理解reactor和proactor？](https://www.zhihu.com/question/26943938)](https://www.zhihu.com/question/26943938),by zhihu.
+12. [[Libevent 编程指南](http://senlinzhan.github.io/2017/08/12/libevent/)](http://senlinzhan.github.io/2017/08/12/libevent/),by senlin.
+13. [[网络编程（三）：从libevent到事件通知机制](https://zhuanlan.zhihu.com/p/20315482)](https://zhuanlan.zhihu.com/p/20315482),by auxten.
+14. [[使用 libevent 和 libev 提高网络应用性能](https://www.ibm.com/developerworks/cn/aix/library/au-libev/index.html)](https://www.ibm.com/developerworks/cn/aix/library/au-libev/index.html),by Martin C. Brown.
+15. [[兄déi，libuv了解一下](https://zhuanlan.zhihu.com/p/50497450)](https://zhuanlan.zhihu.com/p/50497450),by 宋光宇.
+16. [[Libuv 源码分析(2):源码一览](http://blog.tubumu.com/2017/03/11/libuv-analysis-02/)](http://blog.tubumu.com/2017/03/11/libuv-analysis-02/),by Tubumu.
+17. [[IO设计模式：Actor、Reactor、Proactor](https://www.cnblogs.com/losophy/p/9202815.html)](https://www.cnblogs.com/losophy/p/9202815.html),by _raindrop.
+18. [[Proactor网络编程模式歪解](http://www.thinkingyu.com/articles/Proactor/)](http://www.thinkingyu.com/articles/Proactor/),by WUYU.
+19. [[深入理解Reactor模式](https://www.s0nnet.com/archives/deep-understanding-of-reactor-design-patterns)](https://www.s0nnet.com/archives/deep-understanding-of-reactor-design-patterns),by 独木の白帆.
+20. [[socket 编程基础知识](https://cizixs.com/2015/03/29/basic-socket-programming/)](https://cizixs.com/2015/03/29/basic-socket-programming/),by cizixs.
+21. [[一文读懂高性能网络编程中的I/O模型](https://zhuanlan.zhihu.com/p/43933717)](https://zhuanlan.zhihu.com/p/43933717),by Jack Jiang.
+22. [[几种典型的服务器网络编程模型归纳(select poll epoll)](https://blog.csdn.net/drdairen/article/details/53694550)](https://blog.csdn.net/drdairen/article/details/53694550),by DrStream.
+23. [[Linux IO模型和网络编程模型](https://www.cnblogs.com/wade-luffy/p/6106030.html)](https://www.cnblogs.com/wade-luffy/p/6106030.html),by wade&luffy.
+24. [[开源免费的C/C++网络库(c/c++ sockets library) 七剑下天山](https://blog.csdn.net/weiwangchao_/article/details/8730199)](https://blog.csdn.net/weiwangchao_/article/details/8730199),by 工程师WWW.
+25. [[c++ 网络编程（一）TCP/UDP windows/linux 下入门级socket通信 客户端与服务端交互代码](https://www.cnblogs.com/DOMLX/p/9601511.html)](https://www.cnblogs.com/DOMLX/p/9601511.html),by aircraft.
