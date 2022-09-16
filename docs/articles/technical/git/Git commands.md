@@ -18,7 +18,10 @@ cd 代码目录
 ### 强制使用服务器覆盖本地
 
 ```
-git fetch --all // 拉取所有更新，不同步；
-git reset --hard origin/master  // 本地代码同步线上最新版本(会覆盖本地所有与远程仓库上同名的文件)；
-git pull    // 再更新一次[可不用]
+// 拉取所有更新，不同步；
+git fetch --all
+// 本地代码同步线上最新版本(会覆盖本地所有与远程仓库上同名的文件)；
+git reset --hard origin/master
+// 再更新一次[可不用]
+git pull
 ```
