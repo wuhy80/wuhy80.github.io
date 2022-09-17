@@ -2,14 +2,14 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar([
   "/",
-  "/home",
-  "/slides",
   {
-    text: "如何使用",
-    icon: "creative",
-    prefix: "/guide/",
-    link: "/guide/",
-    children: "structure",
+    text: "技术文档",
+    icon: "edit",
+    prefix: "/articles/",
+    children: [
+      { text: "Git", prefix: "", icon: "edit", link: "technical/" },
+      { text: "文章 2", icon: "edit", link: "article2" },
+    ],
   },
   {
     text: "文章",
@@ -33,11 +33,6 @@ export default sidebar([
             collapsable: true,
             prefix: "article/",
             children: ["article5", "article6", "article7", "article8"],
-          },
-          {
-            text: "文章 9-12",
-            icon: "note",
-            children: ["article9", "article10", "article11", "article12"],
           },
         ],
       },
