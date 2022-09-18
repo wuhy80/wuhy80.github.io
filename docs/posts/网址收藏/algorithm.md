@@ -16,6 +16,10 @@ tag:
 
 # 算法
 
+https://www.lintcode.com/course/90/?utm_source=sc-zhihu-jkx0831
+
+> 面试常考算法模板——万能算法小抄
+
 https://labuladong.gitee.io/algo/
 
 > Labuladong 算法小抄
