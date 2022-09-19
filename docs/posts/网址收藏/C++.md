@@ -34,6 +34,10 @@ C++网址收藏
 
 > CPP 标准查询站点
 
+https://herbsutter.com/
+> Herb Sutter,C++专家委员会主席
+
+
 ## C++工具类网站
 
 [C++ Shell](https://cpp.sh/)
