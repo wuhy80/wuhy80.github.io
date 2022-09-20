@@ -2,7 +2,9 @@
 
 这里面的指针要使用 shared_ptr。 如果使用 unique_ptr 会由于转移了控制权导致无法正常运行
 
-```cpp
+在 26~28 行，添加了指针回收的打印。可以在最后看到运行结果，指针内容会自动回收。Good
+
+```cpp{26-28}
 //
 // Created by w00534501 on 2022/9/20.
 //
@@ -26,6 +28,10 @@ struct Node {
 
     explicit Node(T val) : val(val) {
 
+    }
+
+    ~Node() {
+        std::cout << "the node is delete " << val << std::endl;
     }
 };
 
@@ -164,4 +170,29 @@ int main() {
 
     tree->printAll();
 }
+
+```
+
+调试输出内容，可以看到调用 delNode 的时候就会自动回收删除的节点。然后在程序结束的时候回收全部的节点
+
+```
+/CLionProjects/first_test/cmake-build-debug/binary_tree
+duplicate
+duplicate
+the node is delete 13
+5 2 1 8 10 12 23 21 13 98 24
+the node is delete 5
+the node is delete 8
+the node is delete 10
+the node is delete 12
+the node is delete 23
+the node is delete 98
+the node is delete 24
+the node is delete 21
+the node is delete 13
+the node is delete 2
+the node is delete 1
+
+Process finished with exit code 0
+
 ```
