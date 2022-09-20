@@ -7,8 +7,7 @@ export default navbar([
     icon: "edit",
     prefix: "/articles/",
     children: [
-      { text: "Git", prefix: "", icon: "edit", link: "technical/" },
-      { text: "文章 2", icon: "edit", link: "article2" },
+      { text: "文章链接", prefix: "", icon: "edit", link: "technical/" },
     ],
   },
   { text: "使用指南", icon: "creative", link: "/guide/" },

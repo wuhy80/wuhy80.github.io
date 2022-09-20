@@ -7,3 +7,7 @@
 [JetBrains](./tools/jetbrain.md)
 
 [Linux 系统](./tools/linux_tools.md)
+
+# 算法
+
+[二叉搜索树](./algorithms/binary_tree.md)

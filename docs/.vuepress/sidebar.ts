@@ -7,11 +7,11 @@ export default sidebar([
     icon: "edit",
     prefix: "/articles/",
     children: [
-      { text: "Git", prefix: "", icon: "edit", link: "technical/" },
-      { text: "文章 2", icon: "edit", link: "article2" },
+      { text: "文章链接", prefix: "", icon: "edit", link: "technical/" },
+      // { text: "文章 2", icon: "edit", link: "article2" },
     ],
   },
-  {
+  /* {
     text: "文章",
     icon: "note",
     prefix: "/posts/",
@@ -37,5 +37,5 @@ export default sidebar([
         ],
       },
     ],
-  },
+  }, */
 ]);
