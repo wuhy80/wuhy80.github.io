@@ -9,6 +9,72 @@ export default sidebar([
     children: [
       { text: "文章链接", prefix: "", icon: "edit", link: "technical/" },
       // { text: "文章 2", icon: "edit", link: "article2" },
+      {
+        text: "C++",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/C++.html",
+      },
+      {
+        text: "最常用",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/最常用.html",
+      },
+      {
+        text: "计算机",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/计算机.html",
+      },
+      {
+        text: "算法",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/algorithm.html",
+      },
+      {
+        text: "数据库",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/database.html",
+      },
+      {
+        text: "英语",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/english.html",
+      },
+      {
+        text: "JavaScript",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/JavaScript.html",
+      },
+      {
+        text: "Linux",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/Linux.html",
+      },
+      {
+        text: "Python",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/python.html",
+      },
+      {
+        text: "工具",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/tools.html",
+      },
+      {
+        text: "网址收藏",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/网址收藏.html",
+      },
     ],
   },
   /* {
