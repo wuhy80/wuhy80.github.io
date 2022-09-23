@@ -17,8 +17,14 @@ C++网址收藏
 # C++
 
 ## C++学习资料
+
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+
+> Bjarne Stroustrup & Herb Sutter 的 C++ Core Guidelines
+
 [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rr-owner)
-> 这是一个C++核心指南，持续刷新
+
+> 这是一个 C++核心指南，持续刷新
 
 [https://changkun.de/modern-cpp/zh-cn/01-intro/](https://changkun.de/modern-cpp/zh-cn/01-intro/)
 
@@ -37,12 +43,15 @@ C++网址收藏
 > CPP 标准查询站点
 
 https://herbsutter.com/
+
 > Herb Sutter,C++专家委员会主席
 
 https://shaharmike.com/cpp/
-> 一个关于C++的博客 Shahar Mike's Web Spot
+
+> 一个关于 C++的博客 Shahar Mike's Web Spot
 
 https://www.cppstories.com/p/start-here/
+
 > C++ Story Stay up-to-date with Modern C++
 
 ## C++工具类网站
@@ -84,8 +93,10 @@ https://www.cppstories.com/p/start-here/
 > 这是个好东西，可以在 Jupyter 直接进行 C++的脚本级别验证
 
 ## 并发编程
+
 https://paul.pub/cpp-concurrency/#id-%E7%BA%BF%E7%A8%8B
-> C++ 并发编程（从C++11到C++17） 讲解很好，将C++ 11到17之间的并发编程的API基本都讲解了一遍
+
+> C++ 并发编程（从 C++11 到 C++17） 讲解很好，将 C++ 11 到 17 之间的并发编程的 API 基本都讲解了一遍
 
 ## C++ 框架
 
@@ -94,11 +105,14 @@ https://www.wxwidgets.org/
 > WxWidget 图形库，可以用于 Windows 和 Linux
 
 ## 字符串操作
+
 https://www.cppstories.com/2018/07/string-view-perf/
-> 关于StringView的性能评估，比string大约快10倍
+
+> 关于 StringView 的性能评估，比 string 大约快 10 倍
 
 https://quick-bench.com/q/nUZsYuJeRC7UojvtRpp4wvmFbB4
-> 添加了一个char*和string_view的对比，发现这两个性能基本接近
+
+> 添加了一个 char\*和 string_view 的对比，发现这两个性能基本接近
 
 ## 一些 C++的资料
 
