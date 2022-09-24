@@ -3,9 +3,10 @@ home: true
 layout: Blog
 icon: home
 title: 吴海燕的个人网站
+bgImage: /new_logo.jpg
 heroImage: /logo.svg
 heroText: 吴海燕的个人网站
-heroFullScreen: false
+heroFullScreen: true
 tagline: 学习，思考，输出
 projects:
   - icon: project
