@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://wuhy80.github.io/docSite/",
 
   author: {
-    name: "吴海燕",
+    name: "过河卒",
     url: "https://wuhy80.github.io/docSite/",
   },
 
@@ -40,7 +40,7 @@ export default hopeTheme({
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
-      Email: "wuhy80@qq.com",
+      // Email: "wuhy80@qq.com",
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",

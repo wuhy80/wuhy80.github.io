@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 吴海燕的个人网站
+title: 过河卒
 bgImage: /new_logo.jpg
 heroImage: /logo.svg
-heroText: 吴海燕的个人网站
-heroFullScreen: true
+heroText: 过河卒
+heroFullScreen: false
 tagline: 学习，思考，输出
 projects:
   - icon: project

@@ -75,6 +75,12 @@ export default sidebar([
         icon: "edit",
         link: "/posts/网址收藏/网址收藏.html",
       },
+      {
+        text: "优秀博客",
+        prefix: "",
+        icon: "edit",
+        link: "/posts/网址收藏/blog_link.html",
+      },
     ],
   },
   /* {
