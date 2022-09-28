@@ -7,7 +7,7 @@
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
 
-    <title>吴海燕 - 个人简历</title>
+    <title>个人简历</title>
 
     <link rel="stylesheet" href="dist/reset.css" />
     <link rel="stylesheet" href="dist/reveal.css" />
@@ -27,8 +27,8 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>
-          <h2>吴海燕</h2>
+        <section data-visibility="hidden">
+          <h2>简历</h2>
 
           <table>
             <tbody>
@@ -137,7 +137,7 @@
             </table>
           </section>
 
-          <section>
+          <section data-visibility="hidden">
             <h3>华为 2011/8~现在</h3>
 
             <div class="description">
@@ -175,38 +175,6 @@
         <section>
           <section>
             <h2>项目经历</h2>
-          </section>
-
-          <section>
-            <h3>华为 2011/8~现在</h3>
-
-            <div class="description">
-              <b>项目描述</b>
-              该项目是为支持全球海量基站数据分析，数据来源于全球存量局点提取，将提取的数据通过分析后获取站点风险情况，如有风险则提前进行干预。
-              要求支持对某个国家或者地区的所有（数十万）站点数据快速分析，在一小时内完成分析并输出报告。
-            </div>
-            <div class="description">
-              <b>项目职责</b>
-              承担项目的方案设计与编码工作，考虑性能采用C++并发方案，项目技术特点
-
-              <ul style="display: block">
-                <li>使用C++开发，支持在Windows和Linux两个平台使用</li>
-                <li>
-                  利用C++
-                  11线程库实现并发处理，将需要处理的数据拆分到不同线程进行独立分析并汇总结果
-                </li>
-                <li>
-                  处理基站数据需要支持根据传入的大小端配置进行对应的解析工作，实现一套转换机制
-                </li>
-                <li>支持Json，CSV等文件导入导出操作</li>
-              </ul>
-            </div>
-
-            <div class="description">
-              <b>项目业绩</b>
-              分析系统在公司内部多个部门使用，从原先的一次性只能分析部分站点到可以分析所有站点数据，
-              从原先的单次分析需要天以上周期变成小时为周期，极大提升对全球基站数据分析效率
-            </div>
           </section>
 
           <section>
