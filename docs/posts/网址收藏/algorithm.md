@@ -16,6 +16,14 @@ tag:
 
 # 算法
 
+## 算法练习站点
+
+https://practice.geeksforgeeks.org/explore?page=1&curated[]=1&sortBy=submissions&curated_names[]=SDE%20Sheet
+
+> GeekForGeek 的刷题网站
+
+## 算法讲解站点
+
 https://www.lintcode.com/course/90/?utm_source=sc-zhihu-jkx0831
 
 > 面试常考算法模板——万能算法小抄

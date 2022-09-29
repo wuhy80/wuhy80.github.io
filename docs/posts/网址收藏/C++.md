@@ -104,6 +104,12 @@ https://paul.pub/cpp-concurrency/#id-%E7%BA%BF%E7%A8%8B
 
 > C++ 并发编程（从 C++11 到 C++17） 讲解很好，将 C++ 11 到 17 之间的并发编程的 API 基本都讲解了一遍
 
+## 设计模式
+
+https://zhuanlan.zhihu.com/p/476220724
+
+> 22 种设计模式的 C++实现
+
 ## C++ 框架
 
 https://www.wxwidgets.org/
@@ -119,6 +125,16 @@ https://www.cppstories.com/2018/07/string-view-perf/
 https://quick-bench.com/q/nUZsYuJeRC7UojvtRpp4wvmFbB4
 
 > 添加了一个 char\*和 string_view 的对比，发现这两个性能基本接近
+
+## CMake
+
+https://zhoutianpeng.github.io/2020/09/30/cmake%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+
+> CMake 学习笔记 整理的 CMake 还是比较容易理解的
+
+https://www.cnblogs.com/52php/p/5681745.html
+
+> 分三篇写的 CMake 指南，更全面
 
 ## 一些 C++的资料
 

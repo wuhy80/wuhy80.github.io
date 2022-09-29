@@ -31,3 +31,7 @@ https://elixir.bootlin.com/linux/latest/source
 https://static.lwn.net/images/pdf/LDD3/ch00.pdf
 
 > Linux 驱动指南文档
+
+https://www.brendangregg.com/linuxperf.html
+
+> 一个关于 Linux 性能方面的个人博客。作者创建了很多关于性能方面的工具，值得好好学习
