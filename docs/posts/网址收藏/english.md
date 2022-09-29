@@ -20,6 +20,14 @@ https://aimwriting.mtutor.engkoo.com/
 
 > Microsoft AI writing checker
 
+https://www.globaltimes.cn/
+
+> 环球时报，英文版本
+
+https://www.chinadaily.com.cn/
+
+> 中国日报英文版本
+
 ## 在线词典
 
 https://www.ldoceonline.com/

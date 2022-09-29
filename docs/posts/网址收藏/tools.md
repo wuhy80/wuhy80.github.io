@@ -59,3 +59,7 @@ https://code.visualstudio.com/
 https://www.g2.com/
 
 > 替代软件对比站点
+
+https://github.com/mozilla/pdf.js
+
+> 使用 JavaScript 在线查看/编辑 PDF 文档
