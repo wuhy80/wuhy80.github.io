@@ -16,25 +16,31 @@ tag:
 
 # 工具
 
-一些画图软件推荐
-
-适合新手：MicroSoft Office PowerPoint、MicroSoft Office Visio、Apple Keynote
-
-在线画图：Draw.io、ProcessOn、Excalidraw
-
-代码绘图：PlantUML
-
-手绘风格：Apple Keynote、Excalidraw
-
-高级玩家：Sketch、Lunacy
-
-#Area/网址/工具
-
 ## 操作系统
+
+### 深度 Linux
 
 https://www.deepin.org/index/zh
 
 > 深度操作系统
+
+使用起来很舒适，安装之后基本不需要配置。输入法，视频播放，基本的开发工具，百度网盘等等都是现成的。
+
+- CTRL-ALT-A 可以启动截图功能
+
+## 办公软件
+
+## 开发工具
+
+### Visual Studio
+
+微软的开源编辑器，通过添加插件可以支持 C/C++,Python,Go 等各种语言
+
+### Clion 等 JetBrain 系列软件
+
+可以通过写一个开源系统来申请开源 License，只要有三个月的稳定更新就能够申请到
+
+# Area/网址/工具
 
 ## 图形工具
 
