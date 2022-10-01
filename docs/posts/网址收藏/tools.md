@@ -54,6 +54,14 @@ https://code.visualstudio.com/
 
 > Visual Studio 微软出品编辑器
 
+https://www.zhihu.com/question/47691414
+
+> 如何配置 vim 用于开发 C++代码
+
+https://github.com/youngyangyang04/PowerVim
+
+> PowerVim Vim 的配置文件
+
 ## 其他
 
 https://www.g2.com/

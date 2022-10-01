@@ -126,6 +126,10 @@ https://quick-bench.com/q/nUZsYuJeRC7UojvtRpp4wvmFbB4
 
 > 添加了一个 char\*和 string_view 的对比，发现这两个性能基本接近
 
+https://github.com/CLIUtils/CLI11
+
+> C++ CLI 接口，可以做到比较方便的解析命令行输入参数信息
+
 ## CMake
 
 https://zhoutianpeng.github.io/2020/09/30/cmake%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
