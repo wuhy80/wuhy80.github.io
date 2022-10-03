@@ -36,6 +36,8 @@ https://www.deepin.org/index/zh
 
 微软的开源编辑器，通过添加插件可以支持 C/C++,Python,Go 等各种语言
 
+@include(../2022/202210/week1/20221003.md{18-})
+
 ### Clion 等 JetBrain 系列软件
 
 可以通过写一个开源系统来申请开源 License，只要有三个月的稳定更新就能够申请到
