@@ -3,11 +3,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://wuhy80.github.io/docSite/",
+  hostname: "https://wuhy80.github.io",
 
   author: {
     name: "过河卒",
-    url: "https://wuhy80.github.io/docSite/",
+    url: "https://wuhy80.github.io",
   },
 
   iconAssets: "iconfont",
@@ -35,7 +35,7 @@ export default hopeTheme({
     intro: "/intro.html",
     sidebarDisplay: "mobile",
     medias: {
-      GitHub: "https://wuhy80.github.com",
+      GitHub: "https://www.github.com/wuhy80",
       Zhihu: "https://www.zhihu.com/people/wuhy80",
     },
   },
