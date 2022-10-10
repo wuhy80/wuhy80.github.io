@@ -40,5 +40,5 @@ tag:
 | https://www.runoob.com/data-structures/data-structures-tutorial.html | 数据结构与算法 包含排序, 堆, 搜索树, 并查集, 图论 |
 | https://pdai.tech/md/algorithm/alg-basic-overview.html | Java 全栈 - 数据结构基础知识体系详解 |
 | https://www.cs.usfca.edu/~galles/visualization/Algorithms.html | 算法可视化 |
-| https://medium.com/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588 | 7 个最好的数据结构课程 |
+| [seven algorithm course](https://medium.com/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588) | 7 个最好的数据结构课程 |
 | https://www.geeksforgeeks.org/data-structures/?ref=lbp | GeekForGeeks Data Structures 课程 |
