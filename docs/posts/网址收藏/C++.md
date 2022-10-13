@@ -52,7 +52,7 @@ C++网址收藏
 | ----- | ----- |
 |https://queue.acm.org/detail.cfm?id=3372264|Optimizations in C++ Compilers|
 | https://www.tantalon.com/pete/cppopt/main.htm | C++ Optimization Strategies and Techniques |
-
+| https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/ | Understanding glibc malloc |
 ## 并发编程
 | 内容  | 说明  |
 | ----- | ----- |
@@ -64,10 +64,16 @@ C++网址收藏
 |https://zhuanlan.zhihu.com/p/476220724| 22 种设计模式的 C++实现|
 | https://refactoring.guru/ | 图形化讲解设计模式 |
 
+## 调试
+| 内容  | 说明  |
+| ----- | ----- |
+| http://www.unknownroad.com/rtfm/gdbtut/ | RMS's gdb Debugger Tutorial |
+
 ## C++ 框架
 | 内容  | 说明  |
 | ----- | ----- |
 |https://www.wxwidgets.org/| WxWidget 图形库，可以用于 Windows 和 Linux|
+|https://github.com/Walton1128/STL-soruce-code-read | STL源码阅读，目前只有关于share_ptr和pool_alloc两方面的文章，但是写得还是不错，可以看看 |
 
 ## 字符串操作
 | 内容  | 说明  |
