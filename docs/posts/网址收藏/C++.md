@@ -56,12 +56,13 @@ C++网址收藏
 ## 并发编程
 | 内容  | 说明  |
 | ----- | ----- |
-|https://paul.pub/cpp-concurrency/#id-%E7%BA%BF%E7%A8%8B| C++ 并发编程（从 C++11 到 C++17） 讲解很好，将 C++ 11 到 17 之间的并发编程的 API 基本都讲解了一遍|
+| https://paul.pub/cpp-concurrency/#id-%E7%BA%BF%E7%A8%8B | C++ 并发编程（从 C++11 到 C++17） 讲解很好，将 C++ 11 到 17 之间的并发编程的 API 基本都讲解了一遍 |
+| https://blog.csdn.net/zhizhengguan/article/details/120560420 | C/C++编程：高性能开发有哪些常用的技术 |
 
 ## 设计模式
 | 内容  | 说明  |
 | ----- | ----- |
-|https://zhuanlan.zhihu.com/p/476220724| 22 种设计模式的 C++实现|
+| https://zhuanlan.zhihu.com/p/476220724 | 22 种设计模式的 C++实现|
 | https://refactoring.guru/ | 图形化讲解设计模式 |
 
 ## 调试
