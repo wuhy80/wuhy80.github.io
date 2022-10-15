@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: home
 title: 过河卒
-bgImage: /cheatsheetv1.3-1920x1080.png
+bgImage: /hi-tech-futuristic-background-scaled.jpg
 heroImage: /logo.svg
 heroText: 过河卒
 heroFullScreen: false
