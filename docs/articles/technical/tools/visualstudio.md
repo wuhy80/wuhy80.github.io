@@ -2,6 +2,8 @@
 ## 如何配置C++环境
 原始信息来源于 https://zhuanlan.zhihu.com/p/566365173 
 
+Vscode-lldb使用指南 https://github.com/vadimcn/vscode-lldb/blob/v1.8.1/MANUAL.md
+
 ### 需要安装的软件列表(Linux运行环境)
 * clang：我们使用的编译器，拥有更加人性化的报错
 * clangd：一个C/C++的Language Sever后端，薄纱C/C++ Tools
