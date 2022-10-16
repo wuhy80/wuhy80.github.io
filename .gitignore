@@ -2,5 +2,8 @@ node_modules
 .cache
 .temp
 dist
+.cmake
+build
 
 docs/.vuepress/dist/404.html
+build/.cmake/api/v1/query/client-vscode/query.json
