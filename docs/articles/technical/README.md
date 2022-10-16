@@ -8,6 +8,8 @@
 
 [Linux 系统](./tools/linux_tools.md)
 
+[Visual Studio](./tools/visualstudio.md)
+
 # 算法
 
 [二叉搜索树](./algorithms/binary_tree.md)
